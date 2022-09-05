@@ -1,0 +1,21 @@
+.videoContainer{
+    display: flex;
+    max-width: 400px;
+    gap:20px;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+.title{
+    margin: 10px;
+    word-wrap: break-word;
+    max-width: 200px;
+    
+}
+
+.title img{
+    height: 125px;
+    width:168px;
+    border-radius: 5px;
+}
+
